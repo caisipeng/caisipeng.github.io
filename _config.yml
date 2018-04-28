@@ -50,7 +50,7 @@ postPatterns: 'circuitBoard'
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
   email: '//www.baidu.com'
-  dribbble: '//www.baidu.com'
+  dribble: '//www.baidu.com'
   uicn: '//www.baidu.com'
   
 
