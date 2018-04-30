@@ -2,7 +2,7 @@
 title: 'csp blog'
 description: 'UI UX设计爱好者,在这里记录和分享关于自己的一些思考'
 keyword: ' UI,UE,UX,设计'
-url: 'cspblog.top' # your host
+url: '' # your host
 
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
