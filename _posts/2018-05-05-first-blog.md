@@ -3,7 +3,7 @@ layout: post
 title: '输出即输入，分享即学习'
 date: 2018-05-05
 author: csp
-cover: 'https://cl.ly/0U0h0M042x3t'
+cover: 'https://cl.ly/0U0h0M042x3t/cspblog-post-banner1.jpg'
 tags: 
 ---
 
