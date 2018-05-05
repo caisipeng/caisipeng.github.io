@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 'Hello Jekyll'
-date: 2017-04-18
-author: Jekyll
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
-tags: jekyll
+title: '输出即输入，分享即学习'
+date: 2018-05-05
+author: csp
+cover: 'https://cl.ly/0U0h0M042x3t'
+tags: 
 ---
 
-> Transform your plain text into static websites and blogs.
+> 记录，成为更好的自己
 
 ### Welcome
 
