@@ -49,8 +49,8 @@ postPatterns: 'circuitBoard'
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  dribble: '//https://dribbble.com/csp'
-  uicn: '//http://i.ui.cn/ucenter/934109.html'
+  dribble: 'https://dribbble.com/csp'
+  uicn: 'http://i.ui.cn/ucenter/934109.html'
   
 
 # Tags 设置标签
