@@ -3,8 +3,8 @@ layout: post
 title: '输出即输入，分享即学习'
 date: 2018-05-05
 author: csp
-cover: 'https://cl.ly/0U0h0M042x3t/cspblog-post-banner1.jpg'
-tags: 
+cover: 'https://csp-images.oss-cn-beijing.aliyuncs.com/cspblog-post-banner2.jpg?Expires=1526572015&OSSAccessKeyId=TMP.AQGOB9se25HFkwYsL19yQIG9ctV5pK42Ss00N45oqVk8MH3uD2AOXp-dhL43ADAtAhQRE_rIPlEZv30k4NXwhKTSvg1G6gIVAMXFjnfsvwtnop5Gw1qhYVoNGTqI&Signature=rfMlB5Si3kE20RmF7oIKa6HNmEo%3D'
+tags: IOS 设计规范
 ---
 
 > 记录，成为更好的自己
