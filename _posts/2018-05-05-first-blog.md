@@ -1,26 +1,48 @@
 ---
 layout: post
-title: '输出即输入，分享即学习'
+title: 'iOS 11人机界面指南'
 date: 2018-05-05
 author: csp
-cover: 'https://csp-images.oss-cn-beijing.aliyuncs.com/cspblog-post-banner2.jpg?Expires=1526572015&OSSAccessKeyId=TMP.AQGOB9se25HFkwYsL19yQIG9ctV5pK42Ss00N45oqVk8MH3uD2AOXp-dhL43ADAtAhQRE_rIPlEZv30k4NXwhKTSvg1G6gIVAMXFjnfsvwtnop5Gw1qhYVoNGTqI&Signature=rfMlB5Si3kE20RmF7oIKa6HNmEo%3D'
-tags: IOS 设计规范
+cover: 'http://img.hb.aicdn.com/74a7fefab0077cfa1c4740399319d1ecd343210f10bfa-ZAqmAm_fw658'
+tags: iOS设计规范 设计规范
 ---
 
-> 记录，成为更好的自己
+> 概述
 
-### Welcome
+# 概述
+### iOS设计规范三大设计主题中心思想
+1. 清晰
+>在整个系统中所有元素都是清晰可见的，每个元素都是恰到好处的突出了自身要传达的内容信息。（入口在哪）
+2. 遵从
+>清晰流畅的动态效果易于用户理解内容并进行交互（我正去向去哪）。
+3. 深度
+>通过视觉动效赋予界面层级结构并且易于理解感知，可以知道上下文关系（现在自己在哪里）。
 
-This site aims to be a comprehensive guide to Jekyll. We’ll cover topics such as getting your site up and running, creating and managing your content, customizing the way your site works and looks, deploying to various environments, and give you some advice on participating in the future development of Jekyll itself.
+### 六大设计原则
+1. 美学完整性
+>代表了应用程序的外观和用户操作行为与其功能的整合程度
+我的理解就是说应用程序要根据自身的特性在视觉和操作上设计出符合用户预期想达到的效果，例如一款高效的办公应用应该是视觉操作都是简洁的。
+2. 一致性
+>使用统一的控件、图标、文本样式来定义应用程序的规范
+3. 直接操作性
+>操作内容可见和能够被理解的
+4. 反馈性
+>交互状态的反馈，通过视觉动画声音变化来突出反馈结果。
+5. 隐喻性
+>当应用程序的虚拟对象和操作是熟悉体验的隐喻时，人们会学得更快-无论是在现实世界还是数字世界。
+6. 用户可控性
+>系统中人才是拥有最终掌控权的，系统可以预测或者提示用户操作以及提供可取消操作的选择。
 
-### So what is Jekyll, exactly?Permalink
+### iOS11新增功能
+1. 增强现实
+2. 大粗体导航
+3. 更清晰的面性和粗描边图标
+4. 面部识别
+5. 近场通信
+6. iphoneX的安全区布局
+7. 可根据用户需求变化内置字体大小
 
-Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like [Markdown](https://daringfireball.net/projects/markdown/)) and our [Liquid](https://github.com/Shopify/liquid/wiki) renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your project’s page, blog, or website from GitHub’s servers for free.
-
-### Helpful HintsPermalink
-
-Throughout this guide there are a number of small-but-handy pieces of information that can make using Jekyll easier, more interesting, and less hazardous. Here’s what to look out for.
-
-### Video Test
-
-<iframe type="text/html" width="100%" height="385" src="http://www.youtube.com/embed/gfmjMWjn-Xg" frameborder="0"></iframe>
+### 界面的基本要素
+1. bars 导航层展示应用程序整体的交互逻辑
+2. views视图层包含应用程序的主要内容以及相关操作
+3. controls控制层提供相对应的操作行为以及传达信息功能
