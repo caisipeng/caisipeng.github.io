@@ -11,7 +11,6 @@ baseurl: ''
 nav:
   home: '/'
   tags: '/tags.html'
-  works：'/'
 
 # Footer
 footer:
