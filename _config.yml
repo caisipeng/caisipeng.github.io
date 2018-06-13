@@ -1,6 +1,6 @@
 # Site settings 配置站点
 title: 'csp blog'
-description: '记录和分享关于自己的一些思考'
+description: '记录和分享每天的所见所闻'
 keyword: ' UI,UE,UX,设计'
 url: '' # your host
 
@@ -11,7 +11,8 @@ baseurl: ''
 nav:
   home: '/'
   tags: '/tags.html'
-
+  works: '/'
+  
 # Footer
 footer:
   since: 2018
