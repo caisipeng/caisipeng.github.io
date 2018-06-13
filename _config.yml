@@ -23,7 +23,7 @@ bio: '设计爱好者'
 avatar: '/assets/img/profile.png'
 
 # Search
-search: false
+search: ture
  
 # Night mode
 nightMode: false
